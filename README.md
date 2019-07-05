@@ -29,7 +29,7 @@ npm run dev
 ```
 - Build for production
 ```
-npm install
+npm run build
 ```
 
 ### Next Steps
