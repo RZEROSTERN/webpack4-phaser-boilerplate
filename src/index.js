@@ -1,4 +1,4 @@
-import Phaser from 'phaser';
+/* import Phaser from 'phaser'; 
 import config from './config/config';
 
 import './style.scss';
@@ -13,4 +13,4 @@ class Game extends Phaser.Game {
     }
 }
 
-window.game = new Game();
+window.game = new Game(); */
