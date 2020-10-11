@@ -9,7 +9,7 @@ Now I've added ES6 support (well maybe it has been done before) for making clean
 Feel free to use it in practices, sandboxes and productive developments.
 
 ## Installation and Deployment
-For installation, just execute this line commands:
+For installation, just execute these line commands:
 
 ```bash
 $ git clone https://github.com/RZEROSTERN/webpack4-phaser-boilerplate.git
