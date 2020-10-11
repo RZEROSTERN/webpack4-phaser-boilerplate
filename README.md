@@ -36,7 +36,6 @@ npm run build
 
 - Documentation
 - Publishing as NPM package
-- Electron Packaging (Want to publish as desktop app huh ?)
 
 ### Licensing
 Phaser Webpack 4 boilerplate is released under the MIT License.
@@ -48,6 +47,9 @@ GitHub [here](https://github.com/photonstorm/phaser)
 Want to contribute? Just fork the repository and send me your pull requests. Credits will be granted to all of you.
 
 Right now for Hacktoberfest 2020 feel free to make some updates and changes. Fork and have fun.
+
+#### Contributed Issues (Thank you so much !!!)
+ElectronJS support by Stanislav Petroyan. 
 
 ###### Made in Mexico with love and code by RZEROSTERN
 
